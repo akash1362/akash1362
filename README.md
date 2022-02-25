@@ -3,7 +3,7 @@
 -->
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/akash1362/akash1362/blob/main/Hi.gif" width="30px"></h2>
-<img align='right' src='https://github.com/akash162/akash1362/blob/main/techstack.gif' width='200"'>
+             <img align='right' src='https://github.com/akash1362/akash1362/blob/main/techstack.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/akash1362?label=Follow&style=social)](https://github.com/akash1362/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-er.ak.singh136@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:er.ak.singh136@gmail.com)](mailto:er.ak.singh136@gmail.com)
