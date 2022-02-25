@@ -29,5 +29,19 @@
 - **Cricket**
 - **Travelling**
 - **Chess**
-
+- 
+<!--
 <img alt="Akash's github stats" src="https://github-readme-stats.vercel.app/api?username=akash1362&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+-->
+
+## 📈 GitHub Stats
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash1362&theme=vision-friendly-dark&count_private=true&hide=html" alt="Akash's Most Used Languages" />
+
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=akash1362&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
+<br>
+
+## 🔥 My Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akash1362)
