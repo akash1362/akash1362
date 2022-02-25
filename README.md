@@ -8,14 +8,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/akash1362?label=Follow&style=social)](https://github.com/akash1362/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-er.ak.singh136@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:er.ak.singh136@gmail.com)](mailto:er.ak.singh136@gmail.com)
 
-**I am Akash Kumar Singh 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Engineering, [IIIT Kota](https://iiitkota.ac.in/) . I am interested in competitve coding , web and app development.**
+**I am Akash Kumar Singh 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
+My primary interest is in competitve coding. 
+I have also done web and app development using Flutter. 
+Currently I'm spending my time learning Machine Learning and give CP contests.**
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-20613/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_xczBfHFhfibJ_WEh6W9iF8cU2X6YOtR/view?usp=sharing)
 
 ## ⚡ I'm a
-- Competitive Programmer using *Java 
+- Competitive Programmer using **Java** 
 - Android developer using **Flutter**
 <!--
 - Front-end developer using **HTML, Javascript , CSS , ReactJs**
