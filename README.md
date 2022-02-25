@@ -16,9 +16,11 @@
 
 ## ⚡ I'm a
 - Competitive Programmer using *Java 
-- Android developer using **Flutter, Nodejs**
+- Android developer using **Flutter**
+<!--
 - Front-end developer using **HTML, Javascript , CSS , ReactJs**
 - Android developer using **Java**
+-->
 
 ## My Profiles
 - [Codeforces](https://codeforces.com/profile/akash132)
@@ -29,7 +31,6 @@
 - **Cricket**
 - **Travelling**
 - **Chess**
-- 
 <!--
 <img alt="Akash's github stats" src="https://github-readme-stats.vercel.app/api?username=akash1362&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 -->
