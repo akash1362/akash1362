@@ -2,7 +2,7 @@
 **akash1362/akash1362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/akash1362/akash1362/blob/main/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/akash1362/akash1362/blob/main/Hi.gif" width="30px" height='30px'></h2>
              <img align='right' src='https://github.com/akash1362/akash1362/blob/main/techstack.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/akash1362?label=Follow&style=social)](https://github.com/akash1362/?tab=followers)
