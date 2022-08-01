@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/akash1362?label=Follow&style=social)](https://github.com/akash1362/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-er.ak.singh136@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:er.ak.singh136@gmail.com)](mailto:er.ak.singh136@gmail.com)
 
-**I am Akash Kumar Singh 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
+**I am Akash Kumar Singh 😃. I am currently a Final year student at Dept. of Computer Science and Engineering, [IIIT Kota](https://iiitkota.ac.in/) .
 My primary interest is in Competitve Programming. 
 I have also done Web and App development using Flutter. 
 Currently I'm spending my time learning Machine Learning and give CP contests.**
