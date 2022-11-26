@@ -15,7 +15,7 @@ Currently I'm spending my time learning Machine Learning and give CP contests.**
 
 ### 🧐 About Me:
 - 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-20613/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Fn0jO3aJ9k9Ld9KKYA2SJzxraeaHAoaj/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1zZXLKTFf9v-abjf_pQQAoyIiPtGzX205/view?usp=sharing)
 
 ## ⚡ I'm a
 - Competitive Programmer using **Java** 
